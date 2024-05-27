@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Meetings>
+    <Meeting>
+        <Date>2024-05-24</Date>
+        <Time>10:00</Time>
+        <Person>John Doe</Person>
+        <Place>Room 101</Place>
+    </Meeting>
+    <Meeting>
+        <Date>2024-05-25</Date>
+        <Time>14:00</Time>
+        <Person>Jane Smith</Person>
+        <Place>Room 202</Place>
+    </Meeting>
+</Meetings>
